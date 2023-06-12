@@ -1,0 +1,21 @@
+body {
+    height: 300vh;
+}
+
+.contanier {
+    /* position: relative; */
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.box{
+    position: absolute;
+    width: 746.84px;
+    height: 501.97px;
+    left: -117.54px;
+    top: 2332px;
+    
+    background: url(.png);
+    transform: rotate(0.05deg);
+}
